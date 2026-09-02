@@ -1,0 +1,28 @@
+{
+  "raw_file": "00_raw_data/GRD_Consolidado_v2.csv",
+  "raw_sha256": "b3668881afaf4a2ca409800cafaf035d0572a905210a5342b95785cf42ea86d3",
+  "raw_rows": 60633,
+  "raw_columns": 141,
+  "year_counts": {
+    "2019": 15739,
+    "2020": 11190,
+    "2021": 12763,
+    "2022": 14611,
+    "2023": 6330
+  },
+  "analysis_rows_2019_2022": 54303,
+  "missing_los_2019_2022": 31,
+  "complete_los_rows_2019_2022": 54272,
+  "zero_or_missing_drg_weight_2019_2022": 40,
+  "unique_hospitals_2019_2022": 51,
+  "specialty_counts_2019_2022": {
+    "CIRUGIA VASCULAR PERIFERICA": 29553,
+    "CIRUGIA CARDIOVASCULAR": 15656,
+    "CARDIOLOGIA": 9094
+  },
+  "notes": [
+    "Raw data are copied unchanged from the PI-provided zip.",
+    "CSV delimiter is a vertical bar: sep='|'.",
+    "Derived columns are added only in processed files."
+  ]
+}
